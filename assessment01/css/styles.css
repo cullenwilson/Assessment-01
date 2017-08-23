@@ -3,12 +3,10 @@
 }
 
 body {
-    background-image: url("../images/pale-blue.jpeg");  
-    background-size: 100%;
-    background-attachment: fixed;    
+    background-color: #8CBED6;     
 } 
 
-.car {
+.dog {
     padding: 5%;
     width: 70%;  
 }
@@ -16,31 +14,31 @@ body {
 .title {
     width: 60%;
     font-size: 40px; 
-    background-color: black;
+    background-color: #8CBED6;
     text-align: center;
     margin: 1px 20%;
-    text-shadow: 2px 2px lightgray;
-    color: gray;
-    font-style: italic;
+    text-shadow: 2px 2px #33AFFF;
+    color: #FFFFFF;
+    font-style: sans-serif;
     font-style: oblique;      
 }
 
 blockquote {
      margin: 10% 10%; 
-     color: gray;
+     color: #FFFFFF;
      font-size: 17px;               
 }
 
 p {
      text-align: right; 
-     color: #744;
+     color: #FFFFFF;
      margin: 11% 11%;
-     font-style: italic;        
+     font-style: bold;        
 }
 
 .one , .two , .three , .four , .five , .six , .seven , .eight , .nine , .ten {  
     float:left;
-    background-color: black;
+    background-color: #4EE79A;
     width: 23%;  
     margin-top: 1%;
     margin-left: 7.5%;   
@@ -93,7 +91,7 @@ p {
     clear: left;
 } 
 
-.car {  
+.dog {  
     width: 60%;  
 }
 
@@ -109,7 +107,7 @@ p {
     width: 95%;
     margin: .5% 2.5%;
     font-size: 20px;
-    text-shadow: 1px 1px lightgray;
+    text-shadow: 1px 1px #33AFFF;
 }
 
 .one , .two , .three , .four , .five , .six , .seven , .eight , .nine , .ten {
@@ -117,7 +115,7 @@ p {
     margin: .5% 10%;
 }
 
-.car {
+.dog {
     
     float: left;
     width: 40%;  
@@ -131,7 +129,7 @@ p {
     width: 95%;
     margin: .5% 2.5%;
     font-size: 15px;
-    text-shadow: 1px 1px lightgray;
+    text-shadow: 1px 1px #33AFFF;
 }
 
 .one , .two , .three , .four , .five , .six , .seven , .eight , .nine , .ten {
@@ -139,7 +137,7 @@ p {
     margin: .5% 2.5%;
     }
 
-.car { 
+.dog { 
     float: left;
     width: 40%;  
 }
